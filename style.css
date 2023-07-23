@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg1 {
+    background-image: url("https://media.licdn.com/dms/image/sync/D4E27AQEuyYsKJbYWOg/articleshare-shrink_800/0/1688708607146?e=1690164000&v=beta&t=QoAJrIiYstlkUNZeHTBNuwQNK9RWjy2qvmxcmcKf86M");
+    width: 100vw;
+    background-size: cover;
+}
+
+.head1 {
+    font-size: 50px;
+    color: #2F2939;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    padding-top: 60px;
+}
+
+.para1 {
+    font-size: 20px;
+    color: #2F2939;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.btn1 {
+    color: white;
+    background-color: #2EC386;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.btn2 {
+    color: white;
+    background-color: #2EC386;
+    border-radius: 20px;
+
+}
+
+.para2 {
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 8px;
+    padding-bottom: 500px;
+}
+
+.head2 {
+    font-size: 32px;
+    color: #2F2939;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.para3 {
+    font-size: 14px;
+    color: darkgrey;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 8px;
+    padding-right: 80px;
+
+}
+
+.img1 {
+    height: 200px;
+    width: 200px;
+}
+
+
+.card1 {
+    padding-left: 60px;
+    margin-top: 32px;
+}
+
+.card2 {
+    margin-left: 120px;
+    margin-top: 32px;
+}
+
+.head4 {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-left: 160px;
+}
+
+.head5 {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 40px;
+}
+
+.para4 {
+    font-size: 14px;
+    color: darkgrey;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 8px;
+    padding: 20px;
+
+}
+
+.para5 {
+    font-size: 14px;
+    color: #DBE2DF;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 8px;
+    padding: 20px;
+    padding-left: 160px;
+}
+
+.card3 {
+    margin: 20px;
+    margin-top: 60px;
+}
+
+.img2 {
+    height: 100px;
+    width: 160px;
+    border-radius: 50px;
+}
+
+.bg2 {
+    background-image: url("https://t4.ftcdn.net/jpg/04/34/01/35/360_F_434013590_6U4E7AQgKQrPm98s2un6dfNhvsngn16j.jpg");
+    background-size: cover;
+}
+
+.icon-bg {
+    background-color: lightgrey;
+    border-radius: 30px;
+    padding: 13px;
+    margin-left: 10px;
+}
